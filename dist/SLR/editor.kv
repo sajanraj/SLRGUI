@@ -1,0 +1,140 @@
+#:kivy 1.8.0
+Mainscrn:
+
+    Root:
+        id:screen1
+    SLRGui:
+        id: SLR
+
+<Root>:
+    name:'menu'
+
+    text_input: text_input
+    BoxLayout:
+        orientation: 'vertical'
+        height:10
+        Button:
+            text: 'SLR SYSTEM'
+            on_release: root.show_live()
+        BoxLayout:
+            size_hint_y: None
+            height: 50
+            pos_hint: {'top': 1}
+            Button:
+                text: 'Select Image'
+                on_release:
+                    root.show_load()
+            Button:
+                text:'Predict'
+                on_press:
+                    app.root.current = 'result'
+
+        BoxLayout:
+            padding: 10
+            spacing: 10
+            pos: 0, 200
+            TextInput:
+                id: text_input
+                text: 'Load the image'
+
+<LoadDialog>:
+    canvas:
+        Rectangle:
+            source: 'pict.jpg'
+            pos: self.pos
+            size: self.size
+    BoxLayout:
+        size: root.size
+        pos: root.pos
+        orientation: "vertical"
+        FileChooserIconView:
+
+            id: filechooser
+            path:'C:\\Users'
+
+        BoxLayout:
+            size_hint_y: None
+            height: 30
+            Button:
+                text: "Cancel"
+                on_release: root.cancel()
+
+            Button:
+                text: "Load For Prediction"
+                on_release: root.load(filechooser.path, filechooser.selection)
+
+<SaveDialog>:
+    text_input: text_input
+    BoxLayout:
+        size: root.size
+        pos: root.pos
+        orientation: "vertical"
+        FileChooserIconView:
+            id: filechooser
+            on_selection: text_input.text = self.selection and self.selection[0] or ''
+
+        TextInput:
+            id: text_input
+            size_hint_y: None
+            height: 30
+            multiline: False
+
+        BoxLayout:
+            size_hint_y: None
+            height: 30
+            Button:
+                text: "Cancel"
+                on_release: root.cancel()
+
+            Button:
+                text: "Save"
+                on_release: root.save(filechooser.path, text_input.text)
+
+
+<SLRGui>:
+    name: 'result'
+
+
+    display: input
+    pos: self.pos
+    size: self.size
+    canvas.before :
+
+        Color:
+            rgb: (1, 1, 1)
+        Rectangle:
+            pos: self.pos
+            size: self.size
+            source:'pict.jpg'
+
+    BoxLayout:
+        padding: 10,10,10,10
+        spacing: 10
+        BoxLayout:
+            orientation: "vertical"
+            pos: self.pos
+            FloatLayout:
+                size_hint: 0,4
+                Image:
+                    size_hint: None,None
+                    pos_hint: {'x': 1, 'y':0}
+                    size:600,450
+                    source: root.sour
+                    allow_stretch:True
+                    keep_ratio:False
+                Label:
+                    color: 1, 0, 0, .8
+                    size_hint: 1, None
+                    pos_hint: {'x':3.5, 'y':0}
+                    font_size:40
+                    text:root.val
+                    height: 100
+
+            BoxLayout:
+                padding: 40,40,20,20
+
+                Button:
+                    pos_hint: {'x': 0, 'y': 0}
+                    text:'Back'
+                    height: 30
+                    on_press:app.root.current = 'menu'

@@ -1,0 +1,27 @@
+
+#:kivy 1.8.0
+
+<SLRGui>:
+    img: ''
+    id: SLR
+    display: input
+    canvas.before :
+        Color:
+            rgb: (1, 1, 1)
+        Rectangle:
+            source:'pict.jpg'
+            size: self.width + 20, self.height + 20
+            pos: self.x - 10, self.y - 10
+    Image:
+        pos_hint:{"center_x":0.5,"y":0.0}
+
+        size:256,256
+        source: root.img
+
+    Label:
+        pos:0,0
+        font_size:50
+        text:root.id1
+    Button:
+        text:'do'
+        on_press:SLR.compt()

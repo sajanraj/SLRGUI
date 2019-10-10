@@ -1,0 +1,202 @@
+('C:\\Users\\PROJECT '
+ '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui',
+ None,
+ [],
+ 'DATA',
+ [('callme.py',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\callme.py',
+   'DATA'),
+  ('cnn_keras_test - RGB.py',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\cnn_keras_test '
+   '- RGB.py',
+   'DATA'),
+  ('editor.kv',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\editor.kv',
+   'DATA'),
+  ('GuiSign1.py',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\GuiSign1.py',
+   'DATA'),
+  ('main.py',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\main.py',
+   'DATA'),
+  ('Model_SLR.h5',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\Model_SLR.h5',
+   'DATA'),
+  ('Model_SLR_try2.h5',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\Model_SLR_try2.h5',
+   'DATA'),
+  ('Model_SLR_try4.h5',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\Model_SLR_try4.h5',
+   'DATA'),
+  ('Model_SLR_weight_try4.h5',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\Model_SLR_weight_try4.h5',
+   'DATA'),
+  ('pict.jpg',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\pict.jpg',
+   'DATA'),
+  ('project_record.avi',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\project_record.avi',
+   'DATA'),
+  ('project_record1.avi',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\project_record1.avi',
+   'DATA'),
+  ('Realtm_handsegment_RGB.py',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\Realtm_handsegment_RGB.py',
+   'DATA'),
+  ('SLR.spec',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\SLR.spec',
+   'DATA'),
+  ('STest.py',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\STest.py',
+   'DATA'),
+  ('temp.jpg',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\temp.jpg',
+   'DATA'),
+  ('__pycache__\\callme.cpython-36.pyc',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\__pycache__\\callme.cpython-36.pyc',
+   'DATA'),
+  ('__pycache__\\GuiSign1.cpython-36.pyc',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\__pycache__\\GuiSign1.cpython-36.pyc',
+   'DATA'),
+  ('__pycache__\\main.cpython-36.pyc',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\__pycache__\\main.cpython-36.pyc',
+   'DATA'),
+  ('__pycache__\\Realtm_handsegment_RGB.cpython-36.pyc',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\__pycache__\\Realtm_handsegment_RGB.cpython-36.pyc',
+   'DATA'),
+  ('__pycache__\\STest.cpython-36.pyc',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\__pycache__\\STest.cpython-36.pyc',
+   'DATA'),
+  ('da\\editor.kv',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\da\\editor.kv',
+   'DATA'),
+  ('da\\main.kv',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\da\\main.kv',
+   'DATA'),
+  ('da\\main.py',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\da\\main.py',
+   'DATA'),
+  ('da\\myfl.py',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\da\\myfl.py',
+   'DATA'),
+  ('da\\SLRGui.kv',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\da\\SLRGui.kv',
+   'DATA'),
+  ('build\\SLR\\base_library.zip',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\build\\SLR\\base_library.zip',
+   'DATA'),
+  ('build\\SLR\\out00-Analysis.toc',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\build\\SLR\\out00-Analysis.toc',
+   'DATA'),
+  ('build\\SLR\\out00-COLLECT.toc',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\build\\SLR\\out00-COLLECT.toc',
+   'DATA'),
+  ('build\\SLR\\out00-EXE.toc',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\build\\SLR\\out00-EXE.toc',
+   'DATA'),
+  ('build\\SLR\\out00-PKG.pkg',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\build\\SLR\\out00-PKG.pkg',
+   'DATA'),
+  ('build\\SLR\\out00-PKG.toc',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\build\\SLR\\out00-PKG.toc',
+   'DATA'),
+  ('build\\SLR\\out00-PYZ.pyz',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\build\\SLR\\out00-PYZ.pyz',
+   'DATA'),
+  ('build\\SLR\\out00-PYZ.toc',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\build\\SLR\\out00-PYZ.toc',
+   'DATA'),
+  ('build\\SLR\\out00-Tree.toc',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\build\\SLR\\out00-Tree.toc',
+   'DATA'),
+  ('build\\SLR\\out01-Tree.toc',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\build\\SLR\\out01-Tree.toc',
+   'DATA'),
+  ('build\\SLR\\out02-Tree.toc',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\build\\SLR\\out02-Tree.toc',
+   'DATA'),
+  ('build\\SLR\\out03-Tree.toc',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\build\\SLR\\out03-Tree.toc',
+   'DATA'),
+  ('build\\SLR\\out04-Tree.toc',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\build\\SLR\\out04-Tree.toc',
+   'DATA'),
+  ('build\\SLR\\out05-Tree.toc',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\build\\SLR\\out05-Tree.toc',
+   'DATA'),
+  ('build\\SLR\\SLR.exe',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\build\\SLR\\SLR.exe',
+   'DATA'),
+  ('build\\SLR\\SLR.exe.manifest',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\build\\SLR\\SLR.exe.manifest',
+   'DATA'),
+  ('build\\SLR\\warnSLR.txt',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\build\\SLR\\warnSLR.txt',
+   'DATA'),
+  ('build\\SLR\\xref-SLR.html',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\build\\SLR\\xref-SLR.html',
+   'DATA'),
+  ('.idea\\misc.xml',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\.idea\\misc.xml',
+   'DATA'),
+  ('.idea\\modules.xml',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\.idea\\modules.xml',
+   'DATA'),
+  ('.idea\\SLRGui.iml',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\.idea\\SLRGui.iml',
+   'DATA'),
+  ('.idea\\workspace.xml',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\.idea\\workspace.xml',
+   'DATA'),
+  ('.idea\\inspectionProfiles\\Project_Default.xml',
+   'C:\\Users\\PROJECT '
+   '17\\Desktop\\Sajan_Final_RealTime_prediction_using_region_of_interest\\SLRGui\\.idea\\inspectionProfiles\\Project_Default.xml',
+   'DATA')])
